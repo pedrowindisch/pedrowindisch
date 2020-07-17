@@ -1,5 +1,7 @@
 ### Hey! 👋
 
+<sup>Click [here](https://pedrowindisch.github.io/) to access my personal website<sup>
+
 I'm currently a hobbyist developer. I'm looking for new projects to work on and to contribute to, so if you have any ideas, don't hesitate to hit me up.  
 
 I'm currently building [everytime.live](https://everytime.live) - [repo](https://github.com/pedrowindisch/everytime.live).
