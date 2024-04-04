@@ -1,4 +1,6 @@
-hit me up at:
-
-- [linkedin](https://linkedin.com/in/pedrowindisch)
-- pedrowindisch@gmail.com or pedro@windisch.com.br
+```
+contact info/available at
+pedro@windisch.com.br (preferred)
+pedrowindisch@gmail.com
+linkedin.com/in/pedrowindisch
+```
