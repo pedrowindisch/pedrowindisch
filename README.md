@@ -1,6 +1,1 @@
-```
-contact info/available at
-pedro@windisch.com.br (preferred)
-pedrowindisch@gmail.com
-linkedin.com/in/pedrowindisch
-```
+I am interested in .NET/C# development and compilers in general. You can contact me via email at [pedro@windisch.com.br](mailto:pedro@windisch.com.br) (preferred) or [pedrowindisch@gmail.com](mailto:pedrowindisch@gmail.com). Additionally, I'm also available on [LinkedIn](https://linkedin.com/in/pedrowindisch).
