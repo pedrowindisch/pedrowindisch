@@ -15,3 +15,5 @@
 
   Je m'intéresse au développement C#/.NET et aux compilateurs en géneral. Voulez-vous en parler avec moi ? Mon adresse principale est [pedro@windisch.com.br](mailto:pedro@windisch.com.br), et mon adresse secondaire est [pedrowindisch@gmail.com](mailto:pedrowindisch@gmail.com). Je suis également disponible sur [LinkedIn](https://linkedin.com/in/pedrowindisch).
 </details>
+<br />
+<p align="center">álvaro de campos, 15 de janeiro de 1928</p>
